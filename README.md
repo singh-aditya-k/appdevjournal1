@@ -24,7 +24,7 @@ Week #7: Feb 24-Mar 2 *The visualization/run through is contained in the comment
 2. Submission: 2_Feb25.playground (GameView)
 3. Submission: 3_Feb26.playground (GameService)
 4. Submission: 4_Feb27.playground (AppEntry, GameSquare, SquareView, etc.)
-5. Submission: 5-7_Feb28-Mar2.playground
+5. Submission: 5-7_Feb28-Mar2.playground (Music Player Manager)
 
 Week #8: Mar 3-Mar 7
 1. Submission: 1-5_Mar3-7.playground (Restaurant Manager)
